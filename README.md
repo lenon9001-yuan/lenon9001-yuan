@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm lenon 👋
 
-<!--
-**lenon9001-yuan/lenon9001-yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie developer. Here's what I'm currently building.
 
-Here are some ideas to get you started:
+## Latticespot.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building a website named Latticespot.com. 
+
+That is website have shared pixel canvas where people can place an image and link to their website and get a permanent placement in explore page.
+
+Visitors can explore the canvas and discover the projects behind each image. The canvas changes as new placements replace overlapping pixels.
+
+[Explore LatticeSpot →](https://latticespot.com)
