@@ -13,3 +13,9 @@ Visitors can explore the canvas and discover the projects behind each image. The
 <img width="1585" height="823" alt="Screenshot 2026-09-21 134425" src="https://github.com/user-attachments/assets/fdf714f3-c489-4aa4-9c44-a70451c3baf6" />
 
 [Explore LatticeSpot →](https://latticespot.com)
+
+## MySignalForge
+
+[MySignalForge](https://www.mysignalforge.com/) is an independent website with practical guides and tools for Malaysian readers. It covers e-Invoice, tax refunds, SME grants and financing, helping people find useful information for everyday business and money decisions.
+
+[Explore MySignalForge →](https://www.mysignalforge.com/)
